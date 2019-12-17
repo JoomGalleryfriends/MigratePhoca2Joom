@@ -1,10 +1,8 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Addons/MigratePhoca2Joom/trunk/migratephoca2joom.php $
-// $Id: migratephoca2joom.php 4280 2013-05-26 02:42:00Z chraneco $
 /******************************************************************************\
 **   JoomGallery  1.5.0                                                       **
 **   By: JoomGallery::ProjectTeam                                             **
-**   Copyright (C) 2013 - 2013 JoomGallery::ProjectTeam                       **
+**   Copyright (C) 2013 - 2019 JoomGallery::ProjectTeam                       **
 **   Released under GNU GPL Public License                                    **
 **   License: http://www.gnu.org/copyleft/gpl.html or have a look             **
 **   at administrator/components/com_joomgallery/LICENSE.TXT                  **
