@@ -18,7 +18,4 @@
     <language tag="de-DE" client="administrator">de-DE/de-DE.com_joomgallery.migratephoca2joom.ini</language>
     <language tag="en-GB" client="administrator">en-GB/en-GB.com_joomgallery.migratephoca2joom.ini</language>
   </languages>
-  <updateservers>
-    <server type="extension" priority="1" name="JoomGallery Update Service">https://www.joomgalleryfriends.net/components/com_newversion/xml/extensions3.xml</server>
-  </updateservers>
 </extension>
