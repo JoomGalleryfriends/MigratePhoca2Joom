@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="file" version="3.0" method="upgrade">
   <name>Migration Script from PhocaGallery 4 to JoomGallery 3 JUX</name>
-  <creationDate>2019/04/17</creationDate>
+  <creationDate>2019/12/30</creationDate>
   <author>JoomGallery::ProjectTeam</author>
   <copyright>This component is released under the GNU/GPL License</copyright>
   <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
   <authorUrl>www.joomgalleryfriends.net</authorUrl>
-  <version>3.0.0</version>
+  <version>3.0.1</version>
   <description>This script is able to migrate PhocaGallery 4 to JoomGallery 3 JUX.</description>
   <fileset>
     <files target="administrator/components/com_joomgallery/helpers/migration">
